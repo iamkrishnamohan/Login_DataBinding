@@ -1,4 +1,4 @@
-# Login_DataBining
+# Login_DataBinding
 Two way data binding with MVVM
 
 
